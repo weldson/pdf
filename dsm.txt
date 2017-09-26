@@ -1,0 +1,757 @@
+E66.9 Sobrepeso ou obesidade
+F01.50 Provável transtorno neurocognitivo vascular maior, Sem perturbação comportamental
+F01.51 Provável transtorno neurocognitivo vascular maior, Com perturbação comportamental
+F02.80 Transtorno neurocognitivo maior devido a outra condição médica, Sem perturbação comportamental
+F02.80 Transtorno neurocognitivo maior devido a infecção por HIV, Sem perturbação comportamental (codificar em primeiro lugar B20 infecção por HIV)
+F02.80 Transtorno neurocognitivo maior devido à doença de Huntington, Sem perturbação comportamental (codificar em primeiro lugar G10 doença de Huntington)
+F02.80 Transtorno neurocognitivo maior devido a múltiplas etiologias, Sem perturbação comportamental
+F02.80 Transtorno neurocognitivo maior provavelmente devido à doença de Parkinson, Sem perturbação comportamental (codificar em primeiro lugar G20 doença de Parkinson)
+F02.80 Transtorno neurocognitivo maior devido à doença do príon, Sem perturbação comportamental (codificar em primeiro lugar A81.9 doença do príon)
+F02.80 Transtorno neurocognitivo maior devido a lesão cerebral traumática, Sem perturbação comportamental (codificar primeiro S06.2X9S lesão cerebral traumática difusa com perda de consciência de duração não especificada, sequela)
+F02.80 Provável transtorno neurocognitivo maior devido a degeneração lobar frontotemporal, Sem perturbação comportamental (codificar primeiro G31.09 doença frontotemporal)
+F02.80 Provável transtorno neurocognitivo maior devido à doença de Alzheimer, Sem perturbação comportamental (codificar em primeiro lugar G30.9 doença de Alzheimer)
+F02.80 Provável transtorno neurocognitivo maior com corpos de Lewy, Sem perturbação comportamental (codificar em primeiro lugar G31.83 doença com corpos de Lewy)
+F02.81 Transtorno neurocognitivo maior devido a outra condição médica, Com perturbação comportamentalF02.81 Transtorno neurocognitivo maiordevido a infecção por HIV, Com perturbação comportamental (codificar em primeiro lugar B20 infecção por HIV)
+F02.81 Transtorno neurocognitivo maior devido à doença de Huntington, Com perturbação comportamental (codificar em primeiro lugar G10 doença de Huntington)
+F02.81 Transtorno neurocognitivo maior devido a múltiplas etiologias, Com perturbação comportamentalF02.81 Transtorno neurocognitivo maior provavelmente devido à doença de Parkinson, Com perturbação comportamental (codificar em primeiro lugar G20 doença de Parkinson)
+F02.81 Transtorno neurocognitivo maior devido à doença do príon, Com perturbação comportamental (codificar em primeiro lugar A81.9 doença do príon)
+F02.81 Transtorno neurocognitivo maior devido a lesão cerebral traumática, Com perturbação comportamental (codificar primeiro S06.2X9S lesão cerebral traumática difusa com perda da consciência de duração não especificada, sequela)
+F02.81 Provável transtorno neurocognitivo maior devido a degeneração lobar frontotemporal, Com perturbação comportamental (codificar primeiro G31.09 doença frontotemporal)
+F02.81 Provável transtorno neurocognitivo maior devido à doença de Alzheimer, Com perturbação comportamental (codificar em primeiro lugar G30.9 doença de Alzheimer)
+F02.81 Provável transtorno neurocognitivo maior com corpos de Lewy, Com perturbação comportamental (codificar em primeiro lugar G31.83 doença com corpos de Lewy)
+F05 Delirium devido a outra condição médica
+F05 Delirium devido a múltiplas etiologias
+F06.0 Transtorno psicótico devido a outra condição médica, Com alucinações
+F06.1 Catatonia associada a outro transtorno mental (especificador de catatonia)
+F06.1 Transtorno catatônico devido a outra condição médica
+F06.1 Catatonia não especificada (codificar primeiro R29.818 outros sintomas envolvendo os sistemas nervoso e musculoesquelético)
+F06.2 Transtorno psicótico devido a outra condição médica, Com delírios
+F06.31 Transtorno depressivo devido a outra condição médica, Com características depressivas
+F06.32 Transtorno depressivo devido a outra condição médica, Com episódio do tipo depressivo maior
+F06.33 Transtorno bipolar e transtorno relacionado devido a outra condição médica, Com características maníacas
+F06.33 Transtorno bipolar e transtorno relacionado devido a outra condição médica, Com episódio tipo maníaco ou hipomaníaco
+F06.34 Transtorno bipolar e transtorno relacionado devido a outra condição médica, Com características mistas
+F06.34 Transtorno depressivo devido a outra condição médica, Com características mistas
+F06.4 Transtorno de ansiedade devido a outra condição médica
+F06.8 Transtorno obsessivo-compulsivo e transtorno relacionado devido a outra condição médica
+F06.8 Outro transtorno mental especificado devido a outra condição médica
+F07.0 Mudança de personalidade devido a outra condição médica
+F09 Transtorno mental não especificado devido a outra condição médica
+F10.10 Transtorno por uso de álcool, Leve
+F10.121 Delirium por intoxicação por álcool, Com transtorno por uso, Leve
+F10.129 Intoxicação por álcool, Com transtorno por uso, Leve
+F10.14 Transtorno bipolar e relacionado induzido por álcool, Com transtorno por uso, Leve
+F10.14 Transtorno depressivo induzido por álcool, Com transtorno por uso, Leve
+F10.159 Transtorno psicótico induzido por álcool, Com transtorno por uso, Leve
+F10.180 Transtorno de ansiedade induzido por álcool, Com transtorno por uso, Leve
+F10.181 Disfunção sexual induzida por álcool, Com transtorno por uso, Leve
+F10.182 Transtorno do sono induzido por álcool, Com transtorno por uso, Leve
+F10.20 Transtorno por uso de álcool, Moderado
+F10.20 Transtorno por uso de álcool, Grave
+F10.221 Delirium por intoxicação por álcool, Com transtorno por uso, Moderado ou grave
+F10.229 Intoxicação por álcool, Com transtorno por uso, Moderado ou grave
+F10.231 Delirium por abstinência de álcool
+F10.232 Abstinência de álcool, Com perturbações da percepção
+F10.239 Abstinência de álcool, Sem perturbações da percepção
+F10.24 Transtorno bipolar e relacionado induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.24 Transtorno depressivo induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.259 Transtorno psicótico induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.26 Transtorno neurocognitivo maior induzido por álcool, Tipo confabulatório amnéstico, Com transtorno por uso, Moderado ou grave
+F10.27 Transtorno neurocognitivo maior induzido por álcool, Tipo não confabulatório amnéstico, Com transtorno por uso, Moderado ou grave
+F10.280 Transtorno de ansiedade induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.281 Disfunção sexual induzida por álcool, Com transtorno por uso, Moderado ou grave
+F10.282 Transtorno do sono induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.288 Transtorno neurocognitivo leve induzido por álcool, Com transtorno por uso, Moderado ou grave
+F10.921 Delirium por intoxicação por álcool, Sem transtorno por uso
+F10.929 Intoxicação por álcool, Sem transtorno por uso
+F10.94 Transtorno bipolar e relacionado induzido por álcool, Sem transtorno por uso
+F10.94 Transtorno depressivo induzido por álcool, Sem transtorno por uso
+F10.959 Transtorno psicótico induzido por álcool, Sem transtorno por uso
+F10.96 Transtorno neurocognitivo maior induzido por álcool, Tipo confabulatório amnéstico, Sem transtorno por uso
+F10.97 Transtorno neurocognitivo maior induzido por álcool, Tipo confabulatório não amnéstico, Sem transtorno por uso
+F10.980 Transtorno de ansiedade induzido por álcool, Sem transtorno por uso
+F10.981 Disfunção sexual induzida por álcool, Sem transtorno por uso
+F10.982 Transtorno do sono induzido por álcool, Sem transtorno por uso
+F10.988 Transtorno neurocognitivo leve induzido por álcool, Sem transtorno por uso
+F10.99 Transtorno relacionado ao álcool não especificado
+F11.10 Transtorno por uso de opioides, Leve
+F11.121 Delirium por intoxicação por opioide, Com transtorno por uso, Leve
+F11.122 Intoxicação por opioides, Com perturbações da percepção, Com transtorno por uso, Leve
+F11.129 Intoxicação por opioides, Sem perturbações da percepção, Com transtorno por uso, Leve
+F11.14 Transtorno depressivo induzido por opioides, Com transtorno por uso, Leve
+F11.181 Disfunção sexual induzida por opioides, Com transtorno por uso, Leve
+F11.182 Transtorno do sono induzido por opioides, Com transtorno por uso, Leve
+F11.188 Transtorno de ansiedade induzido por opioides, Com transtorno por uso, Leve
+F11.20 Transtorno por uso de opioides, Moderado
+F11.20 Transtorno por uso de opioides, Grave
+F11.221 Delirium por intoxicação por opioides, Com transtorno por uso, Moderado ou grave
+F11.222 Intoxicação por opioides, Com perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F11.229 Intoxicação por opioides, Sem perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F11.23 Abstinência de opioides
+F11.23 Delirium por abstinência de opioides
+F11.24 Transtorno depressivo induzido por opioides, Com transtorno por uso, Moderado ou grave
+F11.281 Disfunção sexual induzida por opioides, Com transtorno por uso, Moderado ou grave
+F11.282 Transtorno do sono induzido por opioides, Com transtorno por uso, Moderado ou grave
+F11.288 Transtorno de ansiedade induzido por opioides, Com transtorno por uso, Moderado ou grave
+F11.921 Delirium induzido por opioides
+F11.921 Delirium por intoxicação por opioides, Sem transtorno por uso
+F11.922 Intoxicação por opioides, Com perturbações da percepção, Sem transtorno por uso
+F11.929 Intoxicação por opioides, Sem perturbações da percepção, Sem transtorno por uso
+F11.94 Transtorno depressivo induzido por opioides, Sem transtorno por uso
+F11.981 Disfunção sexual induzida por opioides, Sem transtorno por uso
+F11.982 Transtorno do sono induzido por opioides, Sem transtorno por uso
+F11.988 Transtorno de ansiedade induzido por opioides, Sem transtorno por uso
+F11.99 Transtorno relacionado a opioides não especificado
+F12.10 Transtorno por uso de Cannabis, Leve
+F12.121 Delirium por intoxicação por Cannabis, Com transtorno por uso, Leve
+F12.122 Intoxicação por Cannabis, Com perturbações da percepção, Com transtorno por uso, Leve
+F12.129 Intoxicação por Cannabis, Sem perturbações da percepção, Com transtorno por uso, Leve
+F12.159 Transtorno psicótico induzido por Cannabis, Com transtorno por uso, Leve
+F12.180 Transtorno de ansiedade induzido por Cannabis, Com transtorno por uso, Leve
+F12.188 Transtorno do sono induzido por Cannabis, Com transtorno por uso, Leve
+F12.20 Transtorno por uso de Cannabis, Moderado
+F12.20 Transtorno por uso de Cannabis, Grave
+F12.221 Delirium por intoxicação por Cannabis, Com transtorno por uso, Moderado ou grave
+F12.222 Intoxicação por Cannabis, Com perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F12.229 Intoxicação por Cannabis, Sem perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F12.259 Transtorno psicótico induzido por Cannabis, Com transtorno por uso, Moderado ou grave
+F12.280 Transtorno de ansiedade induzido por Cannabis, Com transtorno por uso, Moderado ou grave
+F12.288 Transtorno do sono induzido por Cannabis, Com transtorno por uso, Moderado ou grave
+F12.288 Abstinência de Cannabis
+F12.921 Delirium por intoxicação por Cannabis, Sem transtorno por uso
+F12.922 Intoxicação por Cannabis, Com perturbações da percepção, Sem transtorno por uso
+F12.929 Intoxicação por Cannabis, Sem perturbações da percepção, Sem transtorno por uso
+F12.959 Transtorno psicótico induzido por Cannabis, Sem transtorno por uso
+F12.980 Transtorno de ansiedade induzido por Cannabis, Sem transtorno por uso
+F12.988 Transtorno do sono induzido por Cannabis, Sem transtorno por uso
+F12.99 Transtorno relacionado a Cannabis não especificado
+F13.10 Transtorno por uso de sedativos, hipnóticos ou ansiolíticos, Leve
+F13.121 Delirium por intoxicação por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.129 Intoxicação por sedativos, hipnóticos ou ansiolíticos, Com transtorno por uso, Leve
+F13.14 Transtorno bipolar e transtorno relacionado induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.14 Transtorno depressivo induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.159 Transtorno psicótico induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.180 Transtorno de ansiedade induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.181 Disfunção sexual induzida por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.182 Transtorno do sono induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Leve
+F13.20 Transtorno por uso de sedativos, hipnóticos ou ansiolíticos, Moderado
+F13.20 Transtorno por uso de sedativos, hipnóticos ou ansiolíticos, Grave
+F13.221 Delirium por intoxicação por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.229 Intoxicação por sedativos, hipnóticos ou ansiolíticos, Com transtorno por uso, Moderado ou grave
+F13.231 Delirium por abstinência de sedativo, hipnótico ou ansiolítico
+F13.232 Abstinência de sedativos, hipnóticos ou ansiolíticos, Com perturbações da percepção
+F13.239 Abstinência de sedativos, hipnóticos ou ansiolíticos, Sem perturbações da percepção
+F13.24 Transtorno bipolar e relacionado induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.24 Transtorno depressivo induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.259 Transtorno psicótico induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.27 Transtorno neurocognitivo maior induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.280 Transtorno de ansiedade induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.281 Disfunção sexual induzida por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.282 Transtorno do sono induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.288 Transtorno neurocognitivo leve induzido por sedativo, hipnótico ou ansiolítico, Com transtorno por uso, Moderado ou grave
+F13.921 Delirium induzido por sedativo, hipnótico ou ansiolítico
+F13.921 Delirium por intoxicação por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.929 Intoxicação por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.94 Transtorno bipolar e transtorno relacionado induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.94 Transtorno depressivo induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.959 Transtorno psicótico induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.97 Transtorno neurocognitivo maior induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.980 Transtorno de ansiedade induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.981 Disfunção sexual induzida por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.982 Transtorno do sono induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.988 Transtorno neurocognitivo leve induzido por sedativo, hipnótico ou ansiolítico, Sem transtorno por uso
+F13.99 Transtorno relacionado a sedativo, hipnótico ou ansiolítico não especificado
+F14.10 Transtorno por uso de cocaína, Leve
+F14.121 Delirium por intoxicação por cocaína, Com transtorno por uso, Leve
+F14.122 Intoxicação por cocaína, Com perturbações da percepção, Com transtorno por uso, Leve
+F14.129 Intoxicação por cocaína, Sem perturbações da percepção, Com transtorno por uso, Leve
+F14.14 Transtorno bipolar e transtorno relacionado induzido por cocaína, Com transtorno por uso, Leve
+F14.14 Transtorno depressivo induzido por cocaína, Com transtorno por uso, Leve
+F14.159 Transtorno psicótico induzido por cocaína, Com transtorno por uso, Leve
+F14.180 Transtorno de ansiedade induzido por cocaína, Com transtorno por uso, Leve
+F14.181 Disfunção sexual induzida por cocaína, Com transtorno por uso, Leve
+F14.182 Transtorno do sono induzido por cocaína, Com transtorno por uso, Leve
+F14.188 Transtorno obsessivo-compulsivo e relacionado induzido por cocaína, Com transtorno por uso, Leve
+F14.20 Transtorno por uso de cocaína, Moderado
+F14.20 Transtorno por uso de cocaína, Grave
+F14.221 Delirium por intoxicação por cocaína, Com transtorno por uso, Moderado ou grave
+F14.222 Intoxicação por cocaína, Com perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F14.229 Intoxicação por cocaína, Sem perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F14.23 Abstinência de cocaína
+F14.24 Transtorno bipolar e transtorno relacionado induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.24 Transtorno depressivo induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.259 Transtorno psicótico induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.280 Transtorno de ansiedade induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.281 Disfunção sexual induzida por cocaína, Com transtorno por uso, Moderado ou grave
+F14.282 Transtorno do sono induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.288 Transtorno obsessivo-compulsivo e relacionado induzido por cocaína, Com transtorno por uso, Moderado ou grave
+F14.921 Delirium por intoxicação por cocaína, Sem transtorno por uso
+F14.922 Intoxicação por cocaína, Com perturbações da percepção, Sem transtorno por uso
+F14.929 Intoxicação por cocaína, Sem perturbações da percepção, Sem transtorno por uso
+F14.94 Transtorno bipolar e transtorno relacionado induzido por cocaína, Sem transtorno por uso
+F14.94 Transtorno depressivo induzido por cocaína, Sem transtorno por uso
+F14.959 Transtorno psicótico induzido por cocaína, Sem transtorno por uso
+F14.980 Transtorno de ansiedade induzido por cocaína, Sem transtorno por uso
+F14.981 Disfunção sexual induzida por cocaína, Sem transtorno por uso
+F14.982 Transtorno do sono induzido por cocaína, Sem transtorno por uso
+F14.988 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por cocaína, Sem transtorno por uso
+F14.99 Transtorno relacionado a cocaína não especificado
+F15.10 Transtorno por uso de substância do tipo anfetamina, Leve
+F15.10 Transtorno por uso de outro estimulante ou estimulante não especificado, Leve
+F15.121 Delirium por intoxicação por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.122 Intoxicação por anfetamina ou outro estimulante, Com perturbações da percepção, Com transtorno por uso, Leve
+F15.129 Intoxicação por anfetamina (ou outro estimulante), Sem perturbações da percepção, Com transtorno por uso, Leve
+F15.14 Transtorno bipolar e transtorno relacionado induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.14 Transtorno depressivo induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.159 Transtorno psicótico induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.180 Transtorno de ansiedade induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.180 Transtorno de ansiedade induzido por cafeína, Com transtorno por uso, Leve
+F15.181 Disfunção sexual induzida por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.182 Transtorno do sono induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.182 Transtorno do sono induzido por cafeína, Com transtorno por uso, Leve
+F15.188 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Leve
+F15.20 Transtorno por uso de substância do tipo anfetamina, Moderado
+F15.20 Transtorno por uso de substância do tipo anfetamina, Grave
+F15.20 Transtorno por uso de outro estimulante ou estimulante não especificado, Moderado
+F15.20 Transtorno por uso de outro estimulante ou estimulante não especificado, Grave
+F15.221 Delirium por intoxicação por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.222 Intoxicação por anfetamina (ou outro estimulante), Com perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F15.229 Intoxicação por anfetamina (ou outro estimulante), Sem perturbações da percepção, Com transtorno por uso, Moderado ou grave
+F15.23 Abstinência de anfetamina (ou outro estimulante)
+F15.24 Transtorno bipolar e transtorno relacionado induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.24 Transtorno depressivo induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.259 Transtorno psicótico induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.280 Transtorno de ansiedade induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.280 Transtorno de ansiedade induzido por cafeína, Com transtorno por uso, Moderado ou grave
+F15.281 Disfunção sexual induzida por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.282 Transtorno do sono induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.282 Transtorno do sono induzido por cafeína, Com transtorno por uso, Moderado ou grave
+F15.288 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por anfetamina (ou outro estimulante), Com transtorno por uso, Moderado ou grave
+F15.921 Delirium induzido por anfetamina (ou outro estimulante)
+F15.921 Delirium por intoxicação por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.922 Intoxicação por anfetamina (ou outro estimulante), Com perturbações da percepção, Sem transtorno por uso
+F15.929 Intoxicação por anfetamina (ou outro estimulante), Sem perturbações da percepção, Sem transtorno por uso
+F15.929 Intoxicação por cafeína
+F15.93 Abstinência de cafeína
+F15.94 Transtorno bipolar e transtorno relacionado induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.94 Transtorno depressivo induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.959 Transtorno psicótico induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.980 Transtorno de ansiedade induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.980 Transtorno de ansiedade induzido por cafeína, Sem transtorno por uso
+F15.981 Disfunção sexual induzida por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.982 Transtorno do sono induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.982 Transtorno do sono induzido por cafeína, Sem transtorno por uso
+F15.988 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por anfetamina (ou outro estimulante), Sem transtorno por uso
+F15.99 Transtorno relacionado a anfetamina (ou outro estimulante) não especificado
+F15.99 Transtorno relacionado à cafeína não especificado
+F16.10 Transtorno por uso de outros alucinógenos, Leve
+F16.10 Transtorno por uso de fenciclidina, Leve
+F16.121 Delirium por intoxicação por outro alucinógeno, Com transtorno por uso, Leve
+F16.121 Delirium por intoxicação por fenciclidina, Com transtorno por uso, Leve
+F16.129 Intoxicação por outros alucinógenos, Com transtorno por uso, Leve
+F16.129 Intoxicação por fenciclidina, Com transtorno por uso, Leve
+F16.14 Transtorno bipolar e transtorno relacionado induzido por outro alucinógeno, Com transtorno por uso, Leve
+F16.14 Transtorno depressivo induzido por outro alucinógeno, Com transtorno por uso, Leve
+F16.14 Transtorno bipolar e transtorno relacionado induzido por fenciclidina, Com transtorno por uso, Leve
+F16.14 Transtorno depressivo induzido por fenciclidina, Com transtorno por uso, Leve
+F16.159 Transtorno psicótico induzido por outro alucinógeno, Com transtorno por uso, Leve
+F16.159 Transtorno psicótico induzido por fenciclidina, Com transtorno por uso, Leve
+F16.180 Transtorno de ansiedade induzido por outro alucinógeno, Com transtorno por uso, Leve
+F16.180 Transtorno de ansiedade induzido por fenciclidina, Com transtorno por uso, Leve
+F16.20 Transtorno por uso de outros alucinógenos, Moderado
+F16.20 Transtorno por uso de outros alucinógenos, Grave
+F16.20 Transtorno por uso de fenciclidina, Moderado
+F16.20 Transtorno por uso de fenciclidina, Grave
+F16.221 Delirium por intoxicação por outro alucinógeno, Com transtorno por uso, Moderado ou grave
+F16.221 Delirium por intoxicação por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.229 Intoxicação por outros alucinógenos, Com transtorno por uso, Moderado ou grave
+F16.229 Intoxicação por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.24 Transtorno bipolar e transtorno relacionado induzido por outro alucinógeno, Com transtorno por uso, Moderado ou grave
+F16.24 Transtorno depressivo induzido por outro alucinógeno, Com transtorno por uso, Moderado ou grave
+F16.24 Transtorno bipolar e transtorno relacionado induzido por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.24 Transtorno depressivo induzido por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.259 Transtorno psicótico induzido por outro alucinógeno, Com transtorno por uso, Moderado ou grave
+F16.259 Transtorno psicótico induzido por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.280 Transtorno de ansiedade induzido por outro alucinógeno, Com transtorno por uso, Moderado ou grave
+F16.280 Transtorno de ansiedade induzido por fenciclidina, Com transtorno por uso, Moderado ou grave
+F16.921 Delirium por uso de fenciclidina, Sem transtorno por uso
+F16.929 Intoxicação por outros alucinógenos, Sem transtorno por uso
+F16.929 Intoxicação por fenciclidina, Sem transtorno por uso
+F16.94 Transtorno bipolar e transtorno relacionado induzido por outro alucinógeno, Sem transtorno por uso
+F16.94 Transtorno depressivo induzido por outro alucinógeno, Sem transtorno por uso
+F16.94 Transtorno bipolar e transtorno relacionado induzido por fenciclidina, Sem transtorno por uso
+F16.94 Transtorno depressivo induzido por fenciclidina, Sem transtorno por uso
+F16.959 Transtorno psicótico induzido por outro alucinógeno, Sem transtorno por uso
+F16.959 Transtorno psicótico induzido por fenciclidina, Sem transtorno por uso
+F16.980 Transtorno de ansiedade induzido por outro alucinógeno, Sem transtorno por uso
+F16.980 Transtorno de ansiedade induzido por fenciclidina, Sem transtorno por uso
+F16.983 Transtorno persistente da percepção induzido por alucinógenos
+F16.99 Transtorno relacionado a alucinógenos não especificado
+F16.99 Transtorno relacionado a fenciclidina não especificado
+F17.200 Transtorno por uso de tabaco, Moderado
+F17.200 Transtorno por uso de tabaco, Grave
+F17.203 Abstinência de tabaco
+F17.208 Transtorno do sono induzido por tabaco, Com transtorno por uso, Moderado ou grave
+F17.209 Transtorno relacionado a tabaco não especificado
+F18.10 Transtorno por uso de inalantes, Leve
+F18.121 Delirium por intoxicação por inalante, Com transtorno por uso, Leve
+F18.129 Intoxicação por inalantes, Com transtorno por uso, Leve
+F18.14 Transtorno depressivo induzido por inalantes, Com transtorno por uso, Leve
+F18.159 Transtorno psicótico induzido por inalantes, Com transtorno por uso, Leve
+F18.17 Transtorno neurocognitivo maior induzido por inalantes, Com transtorno por uso, Leve
+F18.180 Transtorno de ansiedade induzido por inalantes, Com transtorno por uso, Leve
+F18.188 Transtorno neurocognitivo leve induzido por inalantes, Com transtorno por uso, Leve
+F18.20 Transtorno por uso de inalantes, Moderado
+F18.20 Transtorno por uso de inalantes, Grave
+F18.221 Delirium por intoxicação por inalantes, Com transtorno por uso, Moderado ou grave
+F18.229 Intoxicação por inalantes, Com transtorno por uso, Moderado ou grave
+F18.24 Transtorno depressivo induzido por inalantes, Com transtorno por uso, Moderado ou grave
+F18.259 Transtorno psicótico induzido por inalantes, Com transtorno por uso, Moderado ou grave
+F18.27 Transtorno neurocognitivo maior induzido por inalantes, Com transtorno por uso, Moderado ou grave
+F18.280 Transtorno de ansiedade induzido por inalantes, Com transtorno por uso, Moderado ou grave
+F18.288 Transtorno neurocognitivo leve induzido por inalantes, Com transtorno por uso, Moderado ou grave
+F18.921 Delirium por intoxicação por inalantes, Sem transtorno por uso
+F18.929 Intoxicação por inalantes, Sem transtorno por uso
+F18.94 Transtorno depressivo por uso de inalantes, Sem transtorno por uso
+F18.959 Transtorno psicótico por uso de inalantes, Sem transtorno por uso
+F18.97 Transtorno neurocognitivo maior induzido por inalantes, Sem transtorno por uso
+F18.980 Transtorno de ansiedade induzido por inalantes, Sem transtorno por uso
+F18.988 Transtorno neurocognitivo leve induzido por inalantes, Sem transtorno por uso
+F18.99 Transtorno relacionado a inalantes não especificado
+F19.10 Transtorno por uso de outra substância (ou substância desconhecida), Leve
+F19.121 Delirium por intoxicação por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.129 Intoxicação por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.14 Transtorno bipolar e transtorno relacionado induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.14 Transtorno depressivo induzido por outra substâncias (ou substâncias desconhecidas), Com transtorno por uso, Leve
+F19.159 Transtorno psicótico induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.17 Transtorno neurocognitivo maior induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.180 Transtorno de ansiedade induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.181 Disfunção sexual induzida por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.182 Transtorno do sono induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.188 Transtorno neurocognitivo leve induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.188 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Leve
+F19.20 Transtorno por uso de outra substância (ou substância desconhecida), Moderado
+F19.20 Transtorno por uso de outra substância (ou substância desconhecida), Grave
+F19.221 Delirium por uso de outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.229 Intoxicação por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.231 Delirium por abstinência de outra substância (ou substância desconhecida)
+F19.239 Abstinência de outra substância (ou substância desconhecida)
+F19.24 Transtorno bipolar e transtorno relacionado induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.24 Transtorno depressivo induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.259 Transtorno psicótico induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.27 Transtorno neurocognitivo maior induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.280 Transtorno de ansiedade induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.281 Disfunção sexual induzida por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.282 Transtorno do sono induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.288 Transtorno neurocognitivo leve induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.288 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por outra substância (ou substância desconhecida), Com transtorno por uso, Moderado ou grave
+F19.921 Delirium induzido por outra substância (ou substância desconhecida)
+F19.921 Delirium induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.929 Intoxicação por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.94 Transtorno bipolar e transtorno relacionado induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.94 Transtorno depressivo induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.959 Transtorno psicótico induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.97 Transtorno neurocognitivo maior induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.980 Transtorno de ansiedade induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.981 Disfunção sexual induzida por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.982 Transtorno do sono induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.988 Transtorno neurocognitivo leve induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.988 Transtorno obsessivo-compulsivo e transtorno relacionado induzido por outra substância (ou substância desconhecida), Sem transtorno por uso
+F19.99 Transtorno relacionado a outra substância (ou substância desconhecida) não especificado
+F20.81 Transtorno esquizofreniforme
+F20.9 Esquizofrenia
+F21 Transtorno da personalidade esquizotípica
+F22 Transtorno delirante
+F23 Transtorno psicótico breve
+F25.0 Transtorno esquizoafetivo, Tipo bipolar
+F25.1 Transtorno esquizoafetivo, Tipo depressivo
+F28 Outro transtorno do espectro da esquizofrenia e outro transtorno psicótico especificado
+F29 Transtorno do espectro da esquizofrenia e outro transtorno psicótico não especificado
+F31.0 Transtorno bipolar tipo I, Episódio atual ou mais recente hipomaníaco
+F31.11 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Leve
+F31.12 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Moderado
+F31.13 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Grave
+F31.2 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Com características psicóticas
+F31.31 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Leve
+F31.32 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Moderado
+F31.4 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Grave
+F31.5 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Com características psicóticas
+F31.73 Transtorno bipolar tipo I, Episódio atual ou mais recente hipomaníaco, Em remissão parcial
+F31.73 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Em remissão parcial
+F31.74 Transtorno bipolar tipo I, Episódio atual ou mais recente hipomaníaco, Em remissão completa
+F31.74 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Em remissão completa
+F31.75 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Em remissão parcial
+F31.76 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Em remissão completa
+F31.81 Transtorno bipolar tipo II
+F31.89 Outro transtorno bipolar e transtorno relacionado especificado
+F31.9 Transtorno bipolar tipo I, Episódio atual ou mais recente depressivo, Não especificado
+F31.9 Transtorno bipolar tipo I, Episódio atual ou mais recente hipomaníaco, Não especificado
+F31.9 Transtorno bipolar tipo I, Episódio atual ou mais recente maníaco, Não especificado
+F31.9 Transtorno bipolar tipo I, Episódio atual ou mais recente, Não especificado
+F31.9 Transtorno bipolar e transtorno relacionado não especificado
+F32.0 Transtorno depressivo maior, Episódio único, Leve
+F32.1 Transtorno depressivo maior, Episódio único, Moderado
+F32.2 Transtorno depressivo maior, Episódio único, Grave
+F32.3 Transtorno depressivo maior, Episódio único, Com características psicóticas
+F32.4 Transtorno depressivo maior, Episódio único, Em remissão parcial
+F32.5 Transtorno depressivo maior, Episódio único, Em remissão completa
+F32.8 Outro transtorno depressivo especificado
+F32.9 Transtorno depressivo maior, Episódio único, Não especificado
+F32.9 Transtorno depressivo não especificado
+F33.0 Transtorno depressivo maior, Episódio recorrente, Leve
+F33.1 Transtorno depressivo maior, Episódio recorrente, Moderado
+F33.2 Transtorno depressivo maior, Episódio recorrente, Grave
+F33.3 Transtorno depressivo maior, Episódio recorrente, Com características psicóticas
+F33.41 Transtorno depressivo maior, Episódio recorrente, Em remissão parcial
+F33.42 Transtorno depressivo maior, Episódio recorrente, Em remissão completa
+F33.9 Transtorno depressivo maior, Episódio recorrente, Não especificado
+F34.0 Transtorno ciclotímico
+F34.1 Transtorno depressivo persistente (distimia)
+F34.8 Transtorno disruptivo da desregulação do humor
+F40.00 Agorafobia
+F40.10 Transtorno de ansiedade social (fobia social)
+F40.218 Fobia específica, Animal
+F40.228 Fobia específica, Ambiente natural
+F40.230 Fobia específica, Medo de sangue
+F40.231 Fobia específica, Medo de injeções e transfusões
+F40.232 Fobia específica, Medo de outros cuidados médicos
+F40.233 Fobia específica, Medo de ferimentos
+F40.248 Fobia específica, Situacional
+F40.298 Fobia específica, Outra
+F41.0 Transtorno de pânico
+F41.1 Transtorno de ansiedade generalizada
+F41.8 Outro transtorno de ansiedade especificado
+F41.9 Transtorno de ansiedade não especificado
+F42 Transtorno de acumulação
+F42 Transtorno obsessivo-compulsivo
+F42 Outro transtorno obsessivo-compulsivo e transtorno relacionado especificado
+F42 Transtorno obsessivo-compulsivo e transtorno relacionado não especificado
+F43.0 Transtorno de estresse agudo
+F43.10 Transtorno de estresse pós-traumático
+F43.20 Transtornos de adaptação não especificado
+F43.21 Transtornos de adaptação, Com humor deprimido
+F43.22 Transtornos de adaptação, Com ansiedade
+F43.23 Transtornos de adaptação, Com misto de ansiedade e depressão
+F43.24 Transtornos de adaptação, Com perturbação da conduta
+F43.25 Transtornos de adaptação, Com perturbação mista das emoções e da conduta
+F43.8 Outro transtorno relacionado a trauma e a estressores especificado
+F43.9 Transtorno relacionado a trauma e a estressores não especificado
+F44.0 Amnésia dissociativa
+F44.1 Amnésia dissociativa, Com fuga dissociativa
+F44.4 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com movimento anormal
+F44.4 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com sintomas de fala
+F44.4 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com sintomas de deglutição
+F44.4 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com fraqueza ou paralisia
+F44.5 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com ataques ou convulsões
+F44.6 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com anestesia ou perda sensorial
+F44.6 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com sintoma sensorial especial
+F44.7 Transtorno conversivo (transtorno de sintomas neurológicos funcionais), Com sintomas mistos
+F44.81 Transtorno dissociativo de identidade
+F44.89 Outro transtorno dissociativo especificado
+F44.9 Transtorno dissociativo não especificado
+F45.1 Transtorno de sintomas somáticos
+F45.21 Transtorno de ansiedade de doença
+F45.22 Transtorno dismórfico corporal
+F45.8 Outro transtorno de sintomas somáticos e transtorno relacionado especificado
+F45.9 Transtorno de sintomas somáticos e transtorno relacionado não especificado
+F48.1 Transtorno de despersonalização/desrealização
+F50.01 Anorexia nervosa, Tipo restritivo
+F50.02 Anorexia nervosa, Tipo compulsão alimentar purgativa
+F50.2 Bulimia nervosa
+F50.8 Transtorno alimentar restritivo/evitativo
+F50.8 Transtorno de compulsão alimentar
+F50.8 Outro transtorno alimentar especificado
+F50.8 Pica, Em adultos
+F50.9 Transtorno alimentar não especificado
+F51.01 Transtorno de insônia
+F51.11 Transtorno de hipersonolência
+F51.3 Transtornos de despertar do sono não REM, Tipo sonambulismo
+F51.4 Transtornos de despertar do sono não REM, Tipo terror no sono
+F51.5 Transtorno do pesadelo
+F52.0 Transtorno do desejo sexual masculino hipoativo
+F52.21 Transtorno erétil
+F52.22 Transtorno do interesse/excitação sexual feminino
+F52.31 Transtorno do orgasmo feminino
+F52.32 Ejaculação retardada
+F52.4 Ejaculação prematura (precoce)
+F52.6 Transtorno da dor gênito-pélvica/penetração
+F52.8 Outra disfunção sexual especificada
+F52.9 Disfunção sexual não especificada
+F54 Fatores psicológicos que afetam outras condições médicas
+F60.0 Transtorno da personalidade paranoide
+F60.1 Transtorno da personalidade esquizoide
+F60.2 Transtorno da personalidade antissocial
+F60.3 Transtorno da personalidade borderline
+F60.4 Transtorno da personalidade histriônica
+F60.5 Transtorno da personalidade obsessivo-compulsiva
+F60.6 Transtorno da personalidade evitativa
+F60.7 Transtorno da personalidade dependente
+F60.81 Transtorno da personalidade narcisista
+F60.89 Outro transtorno da personalidade especificado
+F60.9 Transtorno da personalidade não especificado
+F63.0 Transtorno do jogo
+F63.1 Piromania
+F63.3 Tricotilomania (transtorno de arrancar o cabelo)
+F63.2 Cleptomania
+F63.81 Transtorno explosivo intermitente
+F64.1 Disforia de gênero em adolescentes e adultos
+F64.2 Disforia de gênero em crianças
+F64.8 Outra disforia de gênero especificada
+F64.9 Disforia de gênero não especificada
+F65.0 Transtorno fetichista
+F65.1 Transtorno transvéstico
+F65.2 Transtorno exibicionista
+F65.3 Transtorno voyeurista
+F65.4 Transtorno pedofílico
+F65.51 Transtorno do masoquismo sexual
+F65.52 Transtorno do sadismo sexual
+F65.81 Transtorno frotteurista
+F65.89 Outro transtorno parafílico especificado
+F65.9 Transtorno parafílico não especificado
+F68.10 Transtorno factício (inclui transtorno factício autoimposto, transtorno factício imposto a outro)
+F70 Deficiência intelectual (transtorno do desenvolvimento intelectual), Leve
+F71 Deficiência intelectual (transtorno do desenvolvimento intelectual), Moderada
+F72 Deficiência intelectual (transtorno do desenvolvimento intelectual), Grave
+F73 Deficiência intelectual (transtorno do desenvolvimento intelectual), Profunda
+F79 Deficiência intelectual (transtorno do desenvolvimento intelectual) não especificada
+F80.0 Transtorno da fala
+F80.2 Transtorno da linguagem
+F80.81 Transtorno da fluência com início na infância (gagueira)
+F80.89 Transtorno da comuniçação social (pragmática)
+F80.9 Transtorno da comunicação não especificado
+F81.0 Transtorno específico da aprendizagem, Com prejuízo na leitura
+F81.2 Transtorno específico da aprendizagem, Com prejuízo na matemática
+F81.81 Transtorno específico da aprendizagem, Com prejuízo na expressão escrita
+F82 Transtorno do desenvolvimento da coordenação
+F84.0 Transtorno do espectro autista
+F88 Atraso global do desenvolvimento
+F88 Outro transtorno do neurodesenvolvimento especificado
+F89 Transtorno do neurodesenvolvimento não especificado
+F90.0 Transtorno de déficit de atenção/hiperatividade, Apresentação predominantemente desatenta
+F90.1 Transtorno de déficit de atenção/hiperatividade, Apresentação predominantemente hiperativa/impulsiva
+F90.2 Transtorno de déficit de atenção/hiperatividade, Apresentação combinada
+F90.8 Outro transtorno de déficit de atenção/hiperatividade especificado
+F90.9 Transtorno de déficit de atenção/hiperatividade não especificado
+F91.1 Transtorno da conduta, Tipo com início na infância
+F91.2 Transtorno da conduta, Tipo com início na adolescência
+F91.3 Transtorno de oposição desafiante
+F91.8 Outro transtorno disruptivo, do controle de impulsos ou da conduta especificado
+F91.9 Transtorno da conduta, Início não especificado
+F91.9 Transtorno disruptivo, do controle de impulsos ou da conduta não especificado
+F93.0 Transtorno de ansiedade de separação
+F94.0 Mutismo seletivo
+F94.1 Transtorno de apego reativo
+F94.2 Transtorno de interação social desinibida
+F95.0 Transtorno de tique transitório
+F95.1 Transtorno de tique motor ou vocal persistente (crônico)
+F95.2 Transtorno de Tourette
+F95.8 Outro transtorno de tique especificado
+F95.9 Transtorno de tique não especificado
+F98.0 Enurese
+F98.1 Encoprese
+F98.21 Transtorno de ruminação
+F98.3 Pica, Em crianças
+F98.4 Transtorno do movimento estereotipado
+F98.5 Transtorno de fluência, Tipo com início na idade adulta
+F99 Outro transtorno mental especificado
+F99 Transtorno mental não especificado
+G21.0 Síndrome neuroléptica maligna
+G21.11 Parkinsonismo induzido por neuroléptico
+G21.19 Parkinsonismo induzido por outro medicamento
+G24.01 Discinesia tardia
+G24.02 Distonia aguda induzida por medicamento
+G24.09 Distonia tardia
+G25.1 Tremor postural induzido por medicamento
+G25.71 Acatisia aguda induzida por medicamento
+G25.71 Acatisia tardia
+G25.79 Outro transtorno do movimento induzido por medicamento
+G25.81 Síndrome das pernas inquietas
+G31.84 Transtorno neurocognitivo leve devido a degeneração lobar frontotemporal
+G31.84 Transtorno neurocognitivo leve devido à doença de Alzheimer
+G31.84 Transtorno neurocognitivo leve devido a outra condição médica
+G31.84 Transtorno neurocognitivo leve devido a infecção por HIV
+G31.84 Transtorno neurocognitivo leve devido à doença de Huntington
+G31.84 Transtorno neurocognitivo leve com corpos de Lewy
+G31.84 Transtorno neurocognitivo leve devido a múltiplas etiologias
+G31.84 Transtorno neurocognitivo leve devido à doença de Parkinson
+G31.84 Transtorno neurocognitivo leve devido à doença do príon
+G31.84 Transtorno neurocognitivo leve devido a lesão cerebral traumática
+G31.84 Transtorno neurocognitivo vascular leve
+G31.9 Transtorno neurocognitivo maior possivelmente devido à doença de Parkinson
+G31.9 Possível transtorno neurocognitivo maior devido a degeneração lobar frontotemporal
+G31.9 Possível transtorno neurocognitivo maior devido à doença de Alzheimer
+G31.9 Possível transtorno neurocognitivo maior com corpos de Lewy
+G31.9 Possível transtorno neurocognitivo vascular maior
+G47.00 Transtorno de insônia não especificado
+G47.09 Outro transtorno de insônia especificado
+G47.10 Transtorno de hipersonolência não especificado
+G47.19 Outro transtorno de hipersonolência especificado
+G47.20 Transtornos do sono-vigília do ritmo circadiano, Tipo não especificado
+G47.21 Transtornos do sono-vigília do ritmo circadiano, Tipo fase de sono atrasada
+G47.22 Transtornos do sono-vigília do ritmo circadiano, Tipo fase de sono avançada
+G47.23 Transtornos do sono-vigília do ritmo circadiano, Tipo sono-vigília irregular
+G47.24 Transtornos do sono-vigília do ritmo circadiano, Tipo sono-vigília não de 24 horas
+G47.26 Transtornos do sono-vigília do ritmo circadiano, Tipo trabalho em turnos
+G47.31 Apneia central do sono, Apneia central do sono tipo idiopática
+G47.33 Apneia e hipopneia obstrutivas do sono
+G47.34 Hipoventilação relacionada ao sono, Hipoventilação idiopática
+G47.35 Hipoventilação relacionada ao sono, Hipoventilação alveolar central congênita
+G47.36 Hipoventilação relacionada ao sono, Hipoventilação relacionada ao sono comórbida
+G47.37 Apneia central do sono, Apneia central do sono comórbida com uso de opioide
+G47.411 Narcolepsia com cataplexia, porém sem deficiência de hipocretina
+G47.419 Ataxia cerebelar dominante autossômica, surdez e narcolepsia
+G47.419 Narcolepsia austossômica dominante, obesidade e diabetes tipo 2
+G47.419 Narcolepsia sem cataplexia, porém com deficiência de hipocretina
+G47.429 Narcolepsia secundária a outra condição médica
+G47.52 Transtorno comportamental do sono REM
+G47.8 Outro transtorno do sono-vigília especificado
+G47.9 Transtorno do sono-vigília não especificado
+L98.1 Transtorno de escoriação (skin-picking)
+N39.498 Transtorno da eliminação especificado, Com sintomas urinários
+N94.3 Transtorno disfórico pré-menstrual
+R06.3 Apneia central do sono, Respiração de Cheyne-Stokes
+R15.9 Transtorno da eliminação especificado, Com sintomas fecais
+R15.9 Transtorno da eliminação não especificado, Com sintomas fecais
+R32 Transtorno da eliminação não especificado, Com sintomas urinários
+R41.0 Outro delirium especificado
+R41.0 Delirium não especificado
+R41.83 Funcionamento intelectual borderline
+R41.9 Transtorno neurocognitivo não especificado
+T43.205A Síndrome de descontinuação de antidepressivos, Consulta inicial
+T43.205D Síndrome de descontinuação de antidepressivos, Consulta de seguimento
+T43.205S Síndrome de descontinuação de antidepressivos, Sequelas
+T50.905A Outros efeitos adversos dos medicamentos, Consulta inicial
+T50.905D Outros efeitos adversos dos medicamentos, Consulta de seguimento
+T50.905S Outros efeitos adversos dos medicamentos, Sequelas
+T74.01XA Negligência de cônjuge ou parceiro confirmada, Consulta inicial
+T74.01XD Negligência de cônjuge ou parceiro confirmada, Consulta de seguimento
+T74.02XA Negligência infantil confirmada, Consulta inicial
+T74.02XD Negligência infantil confirmada, Consulta de seguimento
+T74.11XA Abuso físico de adulto por não cônjuge ou não parceiro confirmado, Consulta inicial
+T74.11XA Violência física de cônjuge ou parceiro confirmada, Consulta inicial
+T74.11XD Abuso físico de adulto por não cônjuge ou não parceiro confirmado, Consulta de seguimento
+T74.11XD Violência física de cônjuge ou parceiro confirmada, Consulta de seguimento
+T74.12XA Abuso físico infantil confirmado, Consulta inicial
+T74.12XD Abuso físico infantil confirmado, Consulta de seguimento
+T74.21XA Abuso sexual de adulto por não cônjuge ou não parceiro confirmado, Consulta inicial
+T74.21XA Violência sexual de cônjuge ou parceiro confirmada, Consulta inicial
+T74.21XD Abuso sexual de adulto por não cônjuge ou não parceiro confirmado, Consulta de seguimento
+T74.21XD Violência sexual de cônjuge ou parceiro confirmada, Consulta de seguimento
+T74.22XA Abuso sexual infantil confirmado, Consulta inicial
+T74.22XD Abuso sexual infantil confirmado, Consulta de seguimento
+T74.31XAAbuso psicológico de adulto por não cônjuge ou não parceiro confirmado, Consulta inicial
+T74.31XA Abuso psicológico de cônjuge ou parceiro confirmado, Consulta inicial
+T74.31XD Abuso psicológico de adulto por não cônjuge ou não parceiro confirmado, Consulta de seguimento
+T74.31XD Abuso psicológico de cônjuge ou parceiro confirmado, Consulta de seguimento
+T74.32XA Abuso psicológico infantil confirmado, Consulta inicial
+T74.32XD Abuso psicológico infantil confirmado, Consulta de seguimento
+T76.01XA Negligência de cônjuge ou parceiro suspeitada, Consulta inicial
+T76.01XD Negligência de cônjuge ou parceiro suspeitada, Consulta de seguimento
+T76.02XA Negligência infantil suspeitada, Consulta inicial
+T76.02XD Negligência infantil suspeitada, Consulta de seguimento
+T76.11XA Abuso físico de adulto por não cônjuge ou não parceiro suspeitado, Consulta inicial
+T76.11XA Violência física de cônjuge ou parceiro suspeitada, Consulta inicial
+T76.11XD Abuso físico de adulto por não cônjuge ou não parceiro suspeitado, Consulta de seguimento
+T76.11XD Violência física de cônjuge ou parceiro suspeitada, Consulta de seguimento
+T76.12XA Abuso físico infantil suspeitado, Consulta inicial
+T76.12XD Abuso físico infantil suspeitado, Consulta de seguimento
+T76.21XA Abuso sexual de adulto por não cônjuge ou não parceiro suspeitado, Consulta inicial
+T76.21XA Violência sexual de cônjuge ou parceiro suspeitada, Consulta inicial
+T76.21XD Abuso sexual de adulto por não cônjuge ou não parceiro suspeitado, Consulta de seguimento
+T76.21XD Violência sexual de cônjuge ou parceiro suspeitada, Consulta de seguimento
+T76.22XA Abuso sexual infantil suspeitado, Consulta inicial
+T76.22XD Abuso sexual infantil suspeitado, Consulta de seguimento
+T76.31XA Abuso psicológico de adulto por não cônjuge ou não parceiro suspeitado, Consulta inicial
+T76.31XA Abuso psicológico de cônjuge ou parceiro suspeitado, Consulta inicial
+T76.31XD Abuso psicológico de adulto por não cônjuge ou não parceiro suspeitado, Consulta de seguimento
+T76.31XD Abuso psicológico de cônjuge ou parceiro suspeitado, Consulta de seguimento
+T76.32XA Abuso psicológico infantil suspeitado, Consulta inicial
+T76.32XD Abuso psicológico infantil suspeitado, Consulta de seguimento
+Z55.9 Problema acadêmico ou educacional
+Z56.82 Problema relacionado a condição atual de preparação militar
+Z56.9 Outro problema relacionado a emprego
+Z59.0 Os sem-teto
+Z59.1 Moradia inadequada
+Z59.2 Desentendimento com vizinho, locatário ou locador
+Z59.3 Problema relacionado a moradia em instituição especial
+Z59.4 Falta de alimento ou de água potável para consumo
+Z59.5 Pobreza extrema
+Z59.6 Baixa renda
+Z59.7 Seguro social ou previdência social insuficientes
+Z59.9 Moradia ou problema econômico não especificado
+Z60.0 Problema relacionado à fase da vida
+Z60.2 Problema relacionado a morar sozinho
+Z60.3 Dificuldade de aculturação
+Z60.4 Exclusão ou rejeição social
+Z60.5 Alvo de discriminação ou perseguição adversa (percebida)
+Z60.9 Problema não especificado relacionado ao ambiente social
+Z62.29 Educação longe dos pais
+Z62.810 História pessoal (história anterior) de abuso físico na infância
+Z62.810 História pessoal (história anterior) de abuso sexual na infância
+Z62.811 História pessoal (história anterior) de abuso psicológico na infância
+Z62.812 História pessoal (história anterior) de negligência na infância
+Z62.820 Problema de relacionamento entre pais e filhos
+Z62.891 Problema de relacionamento com irmão
+Z62.898 Criança afetada por sofrimento na relação dos pais
+Z63.0 Sofrimento na relação com cônjuge ou parceiro íntimo
+Z63.4 Luto sem complicações
+Z63.5 Ruptura da família por separação ou divórcio
+Z63.8 Nível de expressão emocional alto na família
+Z64.0 Problemas relacionados a gravidez indesejada
+Z64.1 Problemas relacionados a múltiplas gestações
+Z64.4 Desentendimento com provedor de assistência social, inclusive oficial de condicional, gerente de caso ou assistente social
+Z65.0 Condenação em processo cível ou criminal sem prisão
+Z65.1 Prisão ou outro encarceramento
+Z65.2 Problemas relacionados à libertação da prisão
+Z65.3 Problemas relacionados a outras circunstâncias legais
+Z65.4 Vítima de crime
+Z65.4 Vítima de terrorismo ou tortura
+Z65.5 Exposição a desastre, guerra ou outras hostilidades
+Z65.8 Outro problema relacionado a circunstâncias psicossociais
+Z65.8 Problema religioso ou espiritual
+Z65.9 Problema não especificado relacionado a circunstâncias psicossociais não especificadas
+Z69.010 Consulta em serviços de saúde mental de vítima de abuso infantil por um dos pais
+Z69.010 Consulta em serviços de saúde mental de vítima de negligência infantil por um dos pais
+Z69.010 Consulta em serviços de saúde mental de vítima de abuso psicológico infantil por um dos pais
+Z69.010 Consulta em serviços de saúde mental de vítima de abuso sexual infantil por um dos pais
+Z69.011 Consulta em serviços de saúde mental de perpetrador de abuso infantil parental
+Z69.011 Consulta em serviços de saúde mental de perpetrador de negligência infantil parental
+Z69.011 Consulta em serviços de saúde mental de perpetrador de abuso psicológico infantil parental
+Z69.011 Consulta em serviços de saúde mental de perpetrador de abuso sexual infantil parental
+Z69.020 Consulta em serviços de saúde mental de vítima de abuso infantil não parental
+Z69.020 Consulta em serviços de saúde mental de vítima de negligência infantil não parental
+Z69.020 Consulta em serviços de saúde mental de vítima de abuso psicológico infantil não parental
+Z69.020 Consulta em serviços de saúde mental de vítima de abuso sexual infantil não parental
+Z69.021 Consulta em serviços de saúde mental de perpetrador de abuso infantil não parental
+Z69.021 Consulta em serviços de saúde mental de perpetrador de negligência infantil não parental
+Z69.021 Consulta em serviços de saúde mental de perpetrador de abuso psicológico infantil não parental
+Z69.021 Consulta em serviços de saúde mental de perpetrador de abuso sexual infantil não parental
+Z69.11 Consulta em serviços de saúde mental de vítima de negligência de cônjuge ou parceiro
+Z69.11 Consulta em serviços de saúde mental de vítima de abuso psicológico de cônjuge ou parceiro
+Z69.11 Consulta em serviços de saúde mental de vítima de violência física de cônjuge ou parceiro
+Z69.12 Consulta em serviços de saúde mental de perpetrador de negligência de cônjuge ou parceiro
+Z69.12 Consulta em serviços de saúde mental de perpetrador de abuso psicológico de cônjuge ou parceiro
+Z69.12 Consulta em serviços de saúde mental de perpetrador de violência física de cônjuge ou parceiro
+Z69.12 Consulta em serviços de saúde mental de perpetrador de violência sexual de cônjuge ou parceiro
+Z69.81 Consulta em serviços de saúde mental de vítima de abuso de adulto não cônjuge ou não parceiro
+Z69.81 Consulta em serviços de saúde mental de vítima de violência sexual de cônjuge ou parceiro
+Z69.82 Consulta em serviços de saúde mental de perpetrador de abuso de adulto não cônjuge ou não parceiro
+Z70.9 Aconselhamento sexual
+Z71.9 Outro aconselhamento ou consulta
+Z72.0 Transtorno por uso de tabaco, Leve
+Z72.810 Comportamento antissocial de criança ou adolescente
+Z72.811 Comportamento antissocial adulto
+Z72.9 Problema relacionado ao estilo de vida
+Z75.3 Indisponibilidade ou inacessibilidade de instalações de atendimento de saúde
+Z75.4 Indisponibilidade ou inacessibilidade de outras agências de ajuda
+Z76.5 Simulação
+Z91.19 Não adesão a tratamento médico
+Z91.410 História pessoal (história anterior) de violência física de cônjuge ou parceiro
+Z91.410 História pessoal (história anterior) de violência sexual de cônjuge ou parceiro
+Z91.411 História pessoal (história anterior) de abuso psicológico de cônjuge ou parceiro
+Z91.412 História pessoal (história anterior) de negligência de cônjuge ou parceiro
+Z91.49 Outra história pessoal de trauma psicológico
+Z91.5 História pessoal de autolesão
+Z91.82 História pessoal de preparação militar
+Z91.83 Perambulação associada a algum transtorno mental
+Z91.89 Outros fatores de risco pessoais
